@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nmm\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_1d550747bea152b7881369ad83bf753d8a615d8d.jar" />
+    </item>
+    <item
+        jar="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.3.0_69a2a03b3aa4b9065b41e2c307716fe5de9c36cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_703c7f889213b4b3c9898b4c1940468ee16d2c4d.jar" />
+    </item>
+    <item
+        jar="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0aaa5b3c4e44e2712b6ab75bc23aa1d342492a82">
+        <dex dex="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\pre-dexed\debug\instant-run_2165c4e338aafd27a789fb6c822f863d4db29a74.jar" />
+    </item>
+    <item
+        jar="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.3.0_eefb7a0b9e038126b0d18a6f511f18b815b143ba.jar" />
+    </item>
+    <item
+        jar="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5cb253171dfb0c36467a2f84e45b603231042787">
+        <dex dex="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\pre-dexed\debug\instant-run-bootstrap_f5def7b4b37fe04c283dd1ef6035506056a31277.jar" />
+    </item>
+    <item
+        jar="C:\Users\nmm\AppData\Local\Android\sdk\build-tools\23.0.3\renderscript\lib\renderscript-v8.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5b79706a834fa62fc97734d9e799e98b63536ff8">
+        <dex dex="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\pre-dexed\debug\renderscript-v8_3d80929c7d0d861b61f7bcb4d89c096779e0be97.jar" />
+    </item>
+    <item
+        jar="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8813bdcf7583107c4873150075d17c8072ec50cf">
+        <dex dex="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_4bf4f096658b8e64eda511f13891bbf46133ba52.jar" />
+    </item>
+    <item
+        jar="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.3.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a809555a2599054c3dcd1bf82b089315ac3a11df">
+        <dex dex="C:\Users\nmm\AndroidStudioProjects\BasicRenderScript\Application\build\intermediates\pre-dexed\debug\com.android.support-support-v13-23.3.0_4208be96a808d75b8d3496fda1dd546c79bbe669.jar" />
+    </item>
+
+</items>

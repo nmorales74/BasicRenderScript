@@ -1,0 +1,595 @@
+[
+    {
+        "outputFile": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\colors.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 49,
+                        "endOffset": 62
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 60,
+                    "endOffset": 161
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 60,
+                        "endOffset": 111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 166,
+                    "endColumn": 61,
+                    "endOffset": 223
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 116,
+                        "endColumn": 61,
+                        "endOffset": 173
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 228,
+                    "endColumn": 61,
+                    "endOffset": 285
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 178,
+                        "endColumn": 61,
+                        "endOffset": 235
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 290,
+                    "endColumn": 63,
+                    "endOffset": 349
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 63,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1216,
+                    "endColumn": 58,
+                    "endOffset": 1270
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 989,
+                        "endColumn": 58,
+                        "endOffset": 1043
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1275,
+                    "endColumn": 56,
+                    "endOffset": 1327
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1048,
+                        "endColumn": 56,
+                        "endOffset": 1100
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1332,
+                    "endColumn": 53,
+                    "endOffset": 1381
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1105,
+                        "endColumn": 53,
+                        "endOffset": 1154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1386,
+                    "endColumn": 69,
+                    "endOffset": 1451
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 959,
+                        "endColumn": 69,
+                        "endOffset": 1024
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1456,
+                    "endColumn": 42,
+                    "endOffset": 1494
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 880,
+                        "endColumn": 42,
+                        "endOffset": 918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1499,
+                    "endColumn": 43,
+                    "endOffset": 1538
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 43,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1543,
+                    "endColumn": 44,
+                    "endOffset": 1583
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 791,
+                        "endColumn": 44,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1588,
+                    "endColumn": 42,
+                    "endOffset": 1626
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1631,
+                    "endColumn": 41,
+                    "endOffset": 1668
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 706,
+                        "endColumn": 41,
+                        "endOffset": 743
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1673,
+                    "endColumn": 67,
+                    "endOffset": 1736
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\template-dimens.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1029,
+                        "endColumn": 67,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1741,
+                    "endColumn": 54,
+                    "endOffset": 1791
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 647,
+                        "endColumn": 54,
+                        "endOffset": 697
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1796,
+                    "endLine": 30,
+                    "endColumn": 13,
+                    "endOffset": 2287
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\base-strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 702,
+                        "endLine": 29,
+                        "endColumn": 13,
+                        "endOffset": 1205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2292,
+                    "endColumn": 50,
+                    "endOffset": 2338
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 768,
+                        "endColumn": 51,
+                        "endOffset": 815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2343,
+                    "endLine": 38,
+                    "endColumn": 12,
+                    "endOffset": 2752
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1159,
+                        "endLine": 16,
+                        "endColumn": 12,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2757,
+                    "endLine": 45,
+                    "endColumn": 12,
+                    "endOffset": 3080
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 394,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3085,
+                    "endColumn": 35,
+                    "endOffset": 3116
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 723,
+                        "endColumn": 36,
+                        "endOffset": 755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3121,
+                    "endLine": 48,
+                    "endColumn": 12,
+                    "endOffset": 3180
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1573,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 1632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3185,
+                    "endLine": 51,
+                    "endColumn": 12,
+                    "endOffset": 3306
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1637,
+                        "endLine": 21,
+                        "endColumn": 12,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3311,
+                    "endLine": 54,
+                    "endColumn": 12,
+                    "endOffset": 3434
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\build\\intermediates\\exploded-aar\\com.android.support\\cardview-v7\\23.3.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endLine": 24,
+                        "endColumn": 12,
+                        "endOffset": 1886
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3439,
+                    "endLine": 60,
+                    "endColumn": 12,
+                    "endOffset": 3770
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 9,
+                        "endColumn": 12,
+                        "endOffset": 388
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3775,
+                    "endColumn": 59,
+                    "endOffset": 3830
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 651,
+                        "endColumn": 60,
+                        "endOffset": 707
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3835,
+                    "endColumn": 52,
+                    "endOffset": 3883
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 713,
+                        "endColumn": 53,
+                        "endOffset": 762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 3888,
+                    "endColumn": 26,
+                    "endOffset": 3910
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 849,
+                        "endColumn": 27,
+                        "endOffset": 872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 3915,
+                    "endLine": 67,
+                    "endColumn": 12,
+                    "endOffset": 4106
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 878,
+                        "endLine": 32,
+                        "endColumn": 12,
+                        "endOffset": 1069
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4111,
+                    "endLine": 73,
+                    "endColumn": 12,
+                    "endOffset": 4384
+                },
+                "from": {
+                    "file": "C:\\Users\\nmm\\AndroidStudioProjects\\BasicRenderScript\\Application\\src\\main\\res\\values\\template-styles.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1075,
+                        "endLine": 39,
+                        "endColumn": 12,
+                        "endOffset": 1348
+                    }
+                }
+            }
+        ]
+    }
+]
